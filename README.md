@@ -5,9 +5,9 @@
 График функции f(x) при x<-2
 <img width="600" height="700" alt="image" src="grafic1.png">
 График функции f(x) при -2<=x<2
-<img width="300" height="650" alt="image" src="frafic2.png">
+<img width="600" height="700" alt="image" src="grafic2.png">
 График функции f(x) при -2<=x
-<img width="200" height="640" alt="image" src="grafic3.png">
+<img width="600" height="700" alt="image" src="grafic3.png">
 ## Задачи, которые необходимо решить в данной работе:
 Создать интерфейс программы, который должен обеспечивать выполнение операций:
  - Значение – f(x) в точке;
@@ -35,6 +35,14 @@
 ├── Kursovaya_Rabota_1.vcxproj
 
 ├── Kursovaya_Rabota_1.vcxproj.filters
+
+├── funci.png
+
+├── grafic1.png
+
+├── grafic2.png
+
+├── grafic3.png
 
 └── README.md
 
