@@ -41,7 +41,7 @@ input_params_t get_input_params(void);
  * Вычисляет сигма-сумму  для аппроксимации функции.
  *
  * @param x - аргумент функции
- * @param N - количество членов ряда
+ * @param n - количество членов ряда
  * @return сумму ряда
  */
 double sigma(double x, int n);
@@ -107,5 +107,6 @@ double calculate_derivative(double x, double precision);
  * @return приближенное значение интеграла f(x)dx от start до finish
  */
 double calculate_integral(input_params_t params);
+
 
 #endif /* FUNC_H */
